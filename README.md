@@ -8,6 +8,7 @@ Real estate plays a pivotal role in the German economy, experiencing dynamic gro
 ### Objectives
 - Investigate variations in apartment and house rental prices across different regions of Germany.
 - Identify factors influencing rental pricing to better understand the German real estate market.
+- Incorporate spatial data to understand the geographical patterns and spatial relationships influencing rental prices.
 - Evaluate the efficacy of machine learning models in predicting rental prices based on internal and external features, including spatial data.
 - Provide visualizations depicting rental prices across Germany to highlight regional disparities within the real estate market.
 
