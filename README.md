@@ -26,14 +26,14 @@ Real estate plays a pivotal role in the German economy, experiencing dynamic gro
 
 <div style="text-align:center">
   <img src="Plots/apartheatmap.png" alt="Apartments Density Map" style="width:400px;">
-  <p style="text-align:center;">Figure 1: Spatial density map showing the distribution of apartments.</p>
+  <p style="text-align:center;">Figure 1: Spatial density map showing rental price distribution of apartments.</p>
 </div>
 
 <div style="text-align:center">
   <img src="Plots/housesheatmap.png" alt="Houses Density Map" style="width:400px;">
-  <p style="text-align:center;">Figure 2: Spatial density map showing the distribution of houses.</p>
+  <p style="text-align:center;">Figure 2: Spatial density map showing rental price distribution of houses.</p>
 </div>
-
+##
 
 ### Contributors
 - Aaryan Mallayanmath
