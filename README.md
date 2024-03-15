@@ -1,2 +1,3 @@
-# CSS_Real_Estate
+# Computational Social Science Project: Analysis & Automated Valuation of German Real Estate
+
  
