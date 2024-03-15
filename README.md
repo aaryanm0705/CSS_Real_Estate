@@ -22,13 +22,13 @@ Real estate plays a pivotal role in the German economy, experiencing dynamic gro
 - Interior size and zip code were identified as the two most important features for predicting apartment and house prices using the RandomForestRegressor model.
 - The XGBoost model outperformed CatBoost and Random Forest Regressor, achieving an R-squared value of 0.855 for apartments and 0.591 for houses.
 
-## Spatial Density Maps
+### Spatial Density Maps
 
 ![Apartments Density Map](Plots/apartheatmap.png)
-*Figure 1: Spatial density map showing the distribution of apartments.*
+Figure 1: Spatial density map showing the distribution of apartments.
 
 ![Houses Density Map](Plots/housesheatmap.png)
-*Figure 2: Spatial density map showing the distribution of houses.*
+Figure 2: Spatial density map showing the distribution of houses.
 
 
 
